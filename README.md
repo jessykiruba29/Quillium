@@ -8,7 +8,6 @@ Just upload your PDFs or paste text, and it will transform your notes into inter
 ## 🚀 Current Features
 
 - 📄 Upload PDFs or paste text to generate content  
-- 🌍 Supports multiple Indian languages: Hindi, Tamil, Telugu, Kannada, Malayalam, Bengali, Marathi, Gujarati, Punjabi, Urdu, and English  
 - 🤖 AI-powered question extraction to create multiple-choice questions (MCQs)  
 - 🎯 Smart distractors for MCQs to make quizzes challenging  
 - 📚 Flashcard mode with click-to-flip functionality  
